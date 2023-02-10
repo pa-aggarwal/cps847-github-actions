@@ -1,2 +1,2 @@
-def foo(a):
-    return a + 2
+def add_two(number):
+    return number + 2
